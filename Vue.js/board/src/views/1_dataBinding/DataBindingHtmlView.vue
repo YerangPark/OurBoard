@@ -4,7 +4,7 @@
   <div v-html="htmlString"></div>
 </div>
 </template>
-<script>x
+<script>
 export default {
   components: {},
   data() {
